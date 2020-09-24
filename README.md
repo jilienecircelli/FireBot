@@ -1,0 +1,2 @@
+# FireBot
+Discord Bot
